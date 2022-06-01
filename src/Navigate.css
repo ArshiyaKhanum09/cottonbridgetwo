@@ -1,0 +1,30 @@
+
+.logomenubarbtns
+{
+    width: 5rem;
+height: 3rem;
+border-radius: 1rem;
+background-color: var(--primary-color) !important;
+text-transform: capitalize;
+margin-right: 1rem;
+border:0.1rem solid var(--primary-color);
+box-shadow: 0 0.2rem 0.5rem rgba(183,171,255,0.5);
+color:blueviolet;
+font-size:medium;
+margin:10px;
+}
+.loginmenu
+{
+width: 5rem;
+height: 3rem;
+border-radius: 1rem;
+background-color: var(--primary-color) !important;
+text-transform: capitalize;
+margin-right: 1rem;
+border:0.1rem solid var(--primary-color);
+color:blueviolet;
+font-size:medium;
+margin:10px;
+
+
+}

@@ -1,0 +1,44 @@
+.logocontainer{
+display : flex;
+justify-content: space-between;
+margin: 30px;
+}
+
+.logo{
+
+}
+
+.logomenubar{
+    display:flex;
+    margin-right: 40px;
+
+}
+.logomenuitems{
+    margin:10px;
+}
+
+.Visioncontainer{
+    display: flex;
+    justify-content: space-between;
+    margin:60px;
+}
+.Visiontext{
+
+}
+.Visionimage{
+width: 400px;
+ height: 375px;
+margin:auto 0 30px 15px;
+  
+}
+.Misioncontainer{
+    display: flex;
+    justify-content: space-between;
+    margin-top:30px;
+}
+.Misionimage{
+    width: 400px;
+    height: 375px;
+   margin:auto 30px 0 15px; 
+   
+}

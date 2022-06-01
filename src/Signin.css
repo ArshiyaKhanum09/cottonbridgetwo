@@ -1,0 +1,30 @@
+
+.incontainer {
+    background-color: white;
+    width: 40%;
+    height: 300px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+form {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+input {
+    padding: 0 0 0 1em;
+    border: none;
+    margin: 0 1.5em;
+    background-color: #f1f1f0;
+    height: 40px;
+}
+
+button {
+    border: none;
+    height: 40px;
+    margin: 0 1.5em;
+    background-color: #3e9344;
+}

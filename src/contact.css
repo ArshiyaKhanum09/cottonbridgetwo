@@ -1,0 +1,6 @@
+.contactmenu
+{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(238, 45, 31)   
+}
